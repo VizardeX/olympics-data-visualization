@@ -9,9 +9,9 @@ This project analyzes athlete participation in the Paris 2024 Olympic Games usin
 - Answer key analytical questions through interactive Power BI reports
 
 ## Files Included
-- `MergedDataset.xlsx`: The cleaned and integrated dataset used for analysis
+- `MergedDataset.xlsx`: The cleaned and integrated dataset used for some of the analysis
 - `visul-project2.pbix`: The Power BI dashboard file
-- `Data eng&vis project 2 research questions.pdf`: Document containing the main business questions answered
+- `research questions.pdf`: Document containing the main business questions answered
 
 ## Key Research Questions Answered
 1. **How does the average age of athletes differ across regions or countries?**
@@ -24,10 +24,6 @@ This project analyzes athlete participation in the Paris 2024 Olympic Games usin
 - **Visualizations**: Bar charts, heatmaps, trend lines, and comparative metrics
 - **Interactivity**: Filters and slicers for regions, sports, and years
 - **Custom DAX Measures**: For calculating averages, counts, and time trends
-- **Dashboard Pages**:
-  - Overview of global athlete distribution
-  - Detailed breakdowns by sport, gender, and country
-  - Analytical drill-downs by year and event type
 
 ## Technologies Used
 - **Power BI**
